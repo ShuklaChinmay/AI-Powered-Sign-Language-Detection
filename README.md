@@ -77,7 +77,7 @@ README.md → Project documentation
 
 Step 1 – Clone the repository
 
-git clone [https://github.com/ShuklaChinmay/Sign-Language-Detection-Project.git](https://github.com/ShuklaChinmay/Sign-Language-Detection-Project.git)
+git clone (https://github.com/ShuklaChinmay/AI-Powered-Sign-Language-Detection.git)
 
 Step 2 – Navigate to the project directory
 
@@ -123,10 +123,3 @@ GitHub:
 [https://github.com/ShuklaChinmay](https://github.com/ShuklaChinmay)
 
 ---
-
-⭐ If you like this project, consider giving it a **star on GitHub**.
-
----
-
-If you want, I can also create a **🔥 “Top 1% GitHub README” version** (with badges, project banner, architecture diagram, dataset section, and demo section).
-That kind of README **makes your GitHub look very strong for placements.**
