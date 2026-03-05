@@ -1,4 +1,4 @@
-# 🤟 AI-Powered Sign Language Detection
+# AI-Powered Sign Language Detection
 
 An AI-based **Sign Language Detection system** that recognizes hand gestures and converts them into text using **Computer Vision and Machine Learning**.
 
